@@ -24,6 +24,9 @@ that, however, the marketing analyst team needs to better understand how annual 
 riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in
 analyzing the Cyclistic historical bike trip data to identify trends.
 
+### 🔗 Links
+- [**Kaggle Notebook**](https://www.kaggle.com/code/aishwaryaraut20/cyclistic-bike-share-analysis)
+
 ## Phase 1: Ask
 ## Key Objectives
 ### 1.Identify the business task:
