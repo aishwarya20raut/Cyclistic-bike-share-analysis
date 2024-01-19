@@ -58,9 +58,9 @@ Here, we do more cleaning. Combining datasets and transforming it to make our in
 
 for further analysis I choose R the reason I moved to R from excel mainly is because we need to combine three file into one and they won’t fit in excel . excel has a 
 maximum capacity of about 1 million rows   
-For libraries and functions I used in R, you can view my [R-script]()
+For libraries and functions I used in R, you can view my [R-script](https://github.com/aishwarya20raut/Cyclistic-bike-share-analysis/blob/main/Bike_analysis.R)
 
-Because of the size of each .csv file I perform some queries in SQL for cleaning and analysis in a more efficient way.All SQL queries can be found [here]()
+Because of the size of each .csv file I perform some queries in SQL for cleaning and analysis in a more efficient way.All SQL queries can be found [here](https://github.com/aishwarya20raut/Cyclistic-bike-share-analysis/blob/main/bike_sharing_analysis.sql)
 
 ## Phase 4: Analyze 
 In the Analyze phase, basically we try to make sense of our processed data. We transform and organize it into useful information. So that we can draw conclusions, make predictions and drive informed decision making
