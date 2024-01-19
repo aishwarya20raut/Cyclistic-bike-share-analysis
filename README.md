@@ -83,7 +83,7 @@ I choose Tableau
 ## Phase 6: Act
 This is the final phase in Data Analysis. Here, we take all of the insights we’ve got from our data and put them to work to solve the original business case: To show how Annual Members and Casual Riders use Cyclistic bikes differently so that our stakeholders can create marketing strategies to convert casual riders to annual members for the company to earn more money. 
 
-I came up with the following key findingsand recommendations based on my analysis, which I believe will help the marketing team create an effective campaign to convert casual riders into members.
+I came up with the following key findings and recommendations based on my analysis, which I believe will help the marketing team create an effective campaign to convert casual riders into members.
 
 **Key Findings** 
  * Classic Bikes are the most popular bike among Casual riders and members
