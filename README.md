@@ -92,7 +92,7 @@ I came up with the following key findings and recommendations based on my analys
  * The Busiest day of the week is saturday for both member and casual
  * Afternoon is the Busiest time with members having more rides
  * 5AM is the busiest hour for member and casual ,and 8 AM is also busiest time for member
- * September has the most of the rides compared to the other two monh for both member and casual
+ * September has the most of the rides compared to the other two month for both member and casual
  * Member riders use bike equally thougthout the week for daily commuting
  * Saturday and Sunday have the most rides for casual and on Wednesday member have the most rides
 
