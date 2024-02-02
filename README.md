@@ -26,6 +26,7 @@ analyzing the Cyclistic historical bike trip data to identify trends.
 
 ### 🔗 Links
 - [**Kaggle Notebook**](https://www.kaggle.com/code/aishwaryaraut20/cyclistic-bike-share-analysis)
+- [**Tableau dashboard**](https://public.tableau.com/app/profile/aishwarya.raut7514/viz/bike_share_17044542128940/Dashboard1)
 
 ## Phase 1: Ask
 ## Key Objectives
