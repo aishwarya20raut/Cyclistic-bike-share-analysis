@@ -71,7 +71,7 @@ In the Analyze phase, basically we try to make sense of our processed data. We t
 ## Phase 5: Share
 I choose Tableau
 * With Tableau, You explore, play with, filter, mix, match and generate visuals from the data to make complex concepts and numbers easier to see and understand.
-* In the share phase, we’ll interpret the results of our analysis and share our key findings and recommendations to help stakeholderaas make data-driven decisions.
+* In the share phase, we’ll interpret the results of our analysis and share our key findings and recommendations to help stakeholders make data-driven decisions.
   
  You can find the dashboard I created for this project on Tableau [here](https://public.tableau.com/app/profile/aishwarya.raut7514/viz/bike_share_17044542128940/Dashboard1)
 
